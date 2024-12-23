@@ -1,0 +1,18 @@
+{
+  "url": "https://breezy-token.vercel.app",
+  "name": "Breezy Token",
+  "iconUrl": "https://breezy-token.vercel.app/logo.png",
+  "termsOfUseUrl": "https://breezy-token.vercel.app/terms",
+  "privacyPolicyUrl": "https://breezy-token.vercel.app/privacy",
+  "manifestVersion": "0.1",
+  "items": [
+    {
+      "name": "ton_addr",
+      "required": true
+    },
+    {
+      "name": "ton_proof",
+      "required": true
+    }
+  ]
+}
